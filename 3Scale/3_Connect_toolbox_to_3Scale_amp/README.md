@@ -4,3 +4,5 @@
 
 # Verify that your connection process worked as expected
 ![3scale toolbox remote list](https://user-images.githubusercontent.com/60185557/163861525-d60dc9a6-5616-4b44-9d08-ec0f06099c60.gif)
+
+[Toolbox HowTo Demo](https://www.youtube.com/watch?v=-9LinJ5B1bk)
